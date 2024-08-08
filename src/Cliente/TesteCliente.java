@@ -29,4 +29,12 @@ public class TesteCliente {
     public void setProfissao(String profissao) {
         this.profissao = profissao;
     }
+
+    public String getGenero() {
+        return genero;
+    }
+
+    public void setGenero(String genero) {
+        this.genero = genero;
+    }
 }
