@@ -4,6 +4,7 @@ public class TesteCliente {
     private String profissao;
     private String cpf;
     private String nome;
+    private String genero;
 
     public String getCpf() {
         return cpf;
